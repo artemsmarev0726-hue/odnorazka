@@ -1,0 +1,12 @@
+{
+  "token": "9142010206:AAE22Bj4ftfFgdiKptqDWRRZNB5HChjXNiw",
+  "apiKey": "Qr7kLm29xPz4Vn8BtYw3Hs6JdF1aEc5G",
+  "port": 3000,
+  "channels": [
+    { "id": "@dimiki7", "title": "Dimiki", "url": "https://t.me/dimiki7" },
+    { "id": "@BabyYumis", "title": "Yumis", "url": "https://t.me/BabyYumis" }
+  ],
+  "checkCacheSeconds": 60,
+  "maxCodeMinutes": 30,
+  "adminIds": []
+}

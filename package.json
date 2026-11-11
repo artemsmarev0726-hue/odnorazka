@@ -1,0 +1,14 @@
+{
+  "name": "quickrust-giveaway-tg-bot",
+  "version": "1.0.0",
+  "description": "Telegram-бот розыгрыша QuickRust: привязка по коду из игры и проверка подписки на каналы",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
